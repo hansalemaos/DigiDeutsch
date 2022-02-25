@@ -1,0 +1,1 @@
+If you want to change the key combinations, press CTRL+ALT+X  After you have edited the file, close it and restart the app.
