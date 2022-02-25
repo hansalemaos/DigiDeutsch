@@ -14,7 +14,7 @@
 </p><br>
 
 
-# DigiDeutsch
+# DigiDeutsch [DOWNLOAD THE INSTALLERE HERE](https://github.com/hansalemaos/DigiDeutsch/raw/main/digi_deutsch_setup.exe)
 
 
 
