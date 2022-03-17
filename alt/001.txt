@@ -1,1 +1,0 @@
-DigiDeutsch is a tool that allows you looking up/translating words by copying them to the clipboard and pressing a key combination. ATTENTION: SINCE THIS APP IS READING THE CLIPBOARD, YOUR ANTIVIRUS (e.g. Avira) MAY  GIVE YOU A FALSE ALARM!

@@ -1,1 +1,0 @@
-Here I translated a German text in the clipboard to Portuguese using the "Translate from German to pt via Google". By the way, since I am a German living in Brazil, the standard translation language is Portuguese. If you want to change it to English, you have to edit the source code a little. 
